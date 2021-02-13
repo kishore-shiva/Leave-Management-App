@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ISQL global</string>
+    <string name="invalid_data">invalid username or password</string>
+    <string-array name="items">
+        <item>Feeling Sick</item>
+        <item>Family Occasions</item>
+        <item>Personal</item>
+    </string-array>
+    <string-array name="leave_type">
+        <item>Casual leave</item>
+        <item>Formal leave</item>
+    </string-array>
+    <string-array name="nf_days">
+        <item>1/2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item><item>8</item><item>9</item><item>10</item><item>11</item><item>12</item>
+    </string-array>
+</resources>
